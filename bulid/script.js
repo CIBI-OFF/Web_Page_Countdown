@@ -1,5 +1,5 @@
 function countdown() {
-  const targetDate = new Date('2023-06-12');
+  const targetDate = new Date('2023-06-15');
   const now = new Date().getTime();
   const distance = targetDate - now;
 
